@@ -1,0 +1,26 @@
+
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<style>
+
+    div#maintoolbar, div#header {display: none !important;}
+    div#notebook {border-top: none;}
+
+    div.cell.selected {
+         border: none !important;
+         border-radius: 0px;
+    }
+
+    div.prompt {
+        display: none;
+    }
+
+    .CodeMirror-code {
+        font-family: "Source Code Pro" !important;
+    }
+
+    h1, h2, h3, h4, h5 {
+        font-family: "Lato" !important;
+    }
+
+</style>
