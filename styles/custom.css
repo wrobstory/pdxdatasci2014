@@ -16,15 +16,15 @@
     }
 
     .CodeMirror-code {
-        font-family: "Source Code Pro" !important;
+        font-family: "Source Code Pro";
     }
 
     code, pre {
-        font-family: "Source Code Pro" !important;
+        font-family: "Source Code Pro";
     }
 
     .highlight {
-        font-family: "Source Code Pro" !important;
+        font-family: "Source Code Pro";
     }
 
     h1, h2, h3, h4, h5 {
